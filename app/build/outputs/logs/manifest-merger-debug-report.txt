@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\982fc6bf089dc4cc2f8cc787a9d4dac7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\640aeac0b0a9f979ccc7629c01316993\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\01d978e3c5543b47cc87bddc034d13e6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\658d492460020a6fcf615e65c7d8c06b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\4f0e2af14bd25a3059afbe57e7a5e235\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\22b73f789c229fd3b9f9d5b5336d33a7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\928b2111ae27656e9e30d0691ad9b2d2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ef404564790cbe2245d8b76551c4d5ea\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\77a22c27f4b627a7b970a46aae5a210c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\61e08960cc4a3c85313a2f8f5ad641a0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\840a8cb820dff7a0c031a9378ff15c26\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\600fa66c894ddc78d2a16dc84a42eec6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7a5946c0a679b1620159ac01399d4582\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6509942a208fc4663aad719ca4f30a8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\8a32460375ff3db17bc7cce12aeffdff\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\da27669f69b424e8425dbf980d790308\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\5e06089deb28326fb16a0f33eb014673\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:2:11-69
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:5:5-7:31
+	android:value
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:7:9-29
+	android:name
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:6:9-66
+application
+ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\982fc6bf089dc4cc2f8cc787a9d4dac7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\982fc6bf089dc4cc2f8cc787a9d4dac7\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\640aeac0b0a9f979ccc7629c01316993\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\640aeac0b0a9f979ccc7629c01316993\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\01d978e3c5543b47cc87bddc034d13e6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\01d978e3c5543b47cc87bddc034d13e6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\658d492460020a6fcf615e65c7d8c06b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\658d492460020a6fcf615e65c7d8c06b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\4f0e2af14bd25a3059afbe57e7a5e235\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\4f0e2af14bd25a3059afbe57e7a5e235\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\22b73f789c229fd3b9f9d5b5336d33a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\22b73f789c229fd3b9f9d5b5336d33a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\928b2111ae27656e9e30d0691ad9b2d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\928b2111ae27656e9e30d0691ad9b2d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ef404564790cbe2245d8b76551c4d5ea\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ef404564790cbe2245d8b76551c4d5ea\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\77a22c27f4b627a7b970a46aae5a210c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\77a22c27f4b627a7b970a46aae5a210c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\61e08960cc4a3c85313a2f8f5ad641a0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\61e08960cc4a3c85313a2f8f5ad641a0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\840a8cb820dff7a0c031a9378ff15c26\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\840a8cb820dff7a0c031a9378ff15c26\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\600fa66c894ddc78d2a16dc84a42eec6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\600fa66c894ddc78d2a16dc84a42eec6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7a5946c0a679b1620159ac01399d4582\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7a5946c0a679b1620159ac01399d4582\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6509942a208fc4663aad719ca4f30a8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6509942a208fc4663aad719ca4f30a8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\8a32460375ff3db17bc7cce12aeffdff\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\8a32460375ff3db17bc7cce12aeffdff\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\da27669f69b424e8425dbf980d790308\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\da27669f69b424e8425dbf980d790308\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\5e06089deb28326fb16a0f33eb014673\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\5e06089deb28326fb16a0f33eb014673\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.ankit.face.MainActivity
+ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\982fc6bf089dc4cc2f8cc787a9d4dac7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\982fc6bf089dc4cc2f8cc787a9d4dac7\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\640aeac0b0a9f979ccc7629c01316993\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\640aeac0b0a9f979ccc7629c01316993\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\01d978e3c5543b47cc87bddc034d13e6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\01d978e3c5543b47cc87bddc034d13e6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\658d492460020a6fcf615e65c7d8c06b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\658d492460020a6fcf615e65c7d8c06b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\4f0e2af14bd25a3059afbe57e7a5e235\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\4f0e2af14bd25a3059afbe57e7a5e235\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\22b73f789c229fd3b9f9d5b5336d33a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\22b73f789c229fd3b9f9d5b5336d33a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\928b2111ae27656e9e30d0691ad9b2d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\928b2111ae27656e9e30d0691ad9b2d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ef404564790cbe2245d8b76551c4d5ea\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ef404564790cbe2245d8b76551c4d5ea\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\77a22c27f4b627a7b970a46aae5a210c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\77a22c27f4b627a7b970a46aae5a210c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\61e08960cc4a3c85313a2f8f5ad641a0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\61e08960cc4a3c85313a2f8f5ad641a0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\840a8cb820dff7a0c031a9378ff15c26\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\840a8cb820dff7a0c031a9378ff15c26\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\600fa66c894ddc78d2a16dc84a42eec6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\600fa66c894ddc78d2a16dc84a42eec6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7a5946c0a679b1620159ac01399d4582\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7a5946c0a679b1620159ac01399d4582\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6509942a208fc4663aad719ca4f30a8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6509942a208fc4663aad719ca4f30a8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\8a32460375ff3db17bc7cce12aeffdff\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\8a32460375ff3db17bc7cce12aeffdff\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\da27669f69b424e8425dbf980d790308\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\da27669f69b424e8425dbf980d790308\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\5e06089deb28326fb16a0f33eb014673\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\5e06089deb28326fb16a0f33eb014673\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+		ADDED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android Projects\Face\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\22b73f789c229fd3b9f9d5b5336d33a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\22b73f789c229fd3b9f9d5b5336d33a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\928b2111ae27656e9e30d0691ad9b2d2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\928b2111ae27656e9e30d0691ad9b2d2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ef404564790cbe2245d8b76551c4d5ea\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ef404564790cbe2245d8b76551c4d5ea\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\77a22c27f4b627a7b970a46aae5a210c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\77a22c27f4b627a7b970a46aae5a210c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\61e08960cc4a3c85313a2f8f5ad641a0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\61e08960cc4a3c85313a2f8f5ad641a0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\840a8cb820dff7a0c031a9378ff15c26\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\840a8cb820dff7a0c031a9378ff15c26\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\600fa66c894ddc78d2a16dc84a42eec6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\600fa66c894ddc78d2a16dc84a42eec6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7a5946c0a679b1620159ac01399d4582\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7a5946c0a679b1620159ac01399d4582\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c8ace38919ae3d32ae003f0e60f36061\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\a409087000781d76a8c0915a2dc9bbf8\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\fe04f582028a0a50939eabd592809ffe\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ankit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\da78ccbae2089abe05078d92a3daac0b\AndroidManifest.xml:26:13-58
